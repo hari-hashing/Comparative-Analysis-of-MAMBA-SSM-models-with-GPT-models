@@ -1,0 +1,58 @@
+{
+  "Mamba-2.8B_vs_GPT-Neo-2.7B": {
+    "mamba": {
+      "model_name": "Mamba-2.8B",
+      "architecture": "Mamba",
+      "params_millions": 2800,
+      "inference_time_ms": 3879.8272371292114,
+      "tokens_per_second": 13.162776843028057,
+      "throughput_items_per_sec": 131.96463881181538,
+      "peak_memory_mb": 11034.82373046875,
+      "memory_per_token_kb": 1087.7119140625,
+      "perplexity": 1.5197683840982859,
+      "generation_diversity": 0.4878985364492642,
+      "coherence_score": 0.9821428571428572,
+      "repetition_penalty": 0.7086838589704034,
+      "max_sequence_length": 2048,
+      "task_scores": {
+        "question_answering": 1.0,
+        "text_completion": 1.0,
+        "long_form_generation": 1.0
+      },
+      "generation_samples": [
+        "The future of artificial intelligence is to work with us, not against us.\n\nThe future of artificial intelligence is to work with us, not against us. The future of artificial intelligence is to work with us, not against us. The future of artificial intelligence is to work with us, not against us.\n\nThe future of artificial intelligence is to work with us, not against us. The future of artificial intelligence is to work with us, not against us.\n\nThe future of artificial intelligence is to work with us, not against us. The future of artificial intelligence is to work with us, not against us.\n\nThe future of artificial intelligence is to work with us, not against us. The future of artificial intelligence is to",
+        "In the beginning, there was only the Earth. Then came the first humans, who created the animals and the plants. Then, through the ages, the animals and the plants have all been evolving. But at the beginning of time, there were no animals or plants.\n\nWhat, then, were the first creatures on earth?\n\nIn the Beginning, the universe was filled with energy. This energy created the atoms, which in turn created the first molecules. These molecules began to assemble themselves into living cells, and then into animals and plants.\n\nThe first creatures in the universe were the molecules. The molecules combined to form the cells. Then the cells combined to form the animals and the plants. Then the plants combined to form the",
+        "Scientists have discovered that the key to preventing the disease is a unique protein called MIF, which is present in the body and in semen. In the semen, the protein is found in a form that is inactive, but when the semen is ejaculated, the protein is activated and becomes toxic to the sperm. This causes the sperm to stop swimming and die.\n\nThe researchers have found that the protein is present in the blood of patients with infertility, and also in the semen of those who are infertile, but the protein is not activated in the blood. This means that it is possible to use the MIF protein to develop a test to identify the men who are likely to suffer from infertility and not be able to have children",
+        "The most important invention in history was the one that invented the concept of invention,\" wrote inventor and engineer Nikola Tesla in his autobiography.\n\n\"That invention was the concept of the patent.\"\n\nAs a child, Tesla's parents told him he could not play outside because it was too dangerous for a little boy. As an adult, he went on to build a series of inventions that would change the world, including a power source for lighting and the world's first practical radio.\n\nTesla's work also led to the creation of the modern electric motor, the induction motor, the Tesla coil, and the Tesla tower.\n\nThe man who invented the light bulb is considered the single greatest inventor of all time.\n",
+        "Climate change is affecting a wide range of ecosystems, and as a result, the species that inhabit them are changing. These changes have already been observed and documented, but they are also happening rapidly.\n\nMany of the changes have been reported to the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES). It is an independent, non-profit organization that is tasked with providing scientific advice to decision makers around the world on how to meet the challenges of the Anthropocene.\n\nIPBES\u2019s most recent report, published in October 2018, documents the extent to which changes in species are already affecting people and the environment. The report states: \u201cAmid rapid species loss, the pace of biodiversity"
+      ]
+    },
+    "transformer": {
+      "model_name": "GPT-Neo-2.7B",
+      "architecture": "GPT-Neo",
+      "params_millions": 2700,
+      "inference_time_ms": 203.4165859222412,
+      "tokens_per_second": 27.541441768444777,
+      "throughput_items_per_sec": 2517.002228106016,
+      "peak_memory_mb": 10727.8515625,
+      "memory_per_token_kb": 473.767578125,
+      "perplexity": 1.5455240956497724,
+      "generation_diversity": 0.556115921411662,
+      "coherence_score": 0.9791666666666667,
+      "repetition_penalty": 0.8433997176331258,
+      "max_sequence_length": 2048,
+      "task_scores": {
+        "question_answering": 1.0,
+        "text_completion": 1.0,
+        "long_form_generation": 0.4
+      },
+      "generation_samples": [
+        "The future of artificial intelligence is not a question of whether or not machines will take over from humans in the workplace, or even if they will be able to compete with humans. What is the real question is whether or not humans will be able to create and manage artificial intelligence (AI) in a way that is efficient and safe.\n\nThe key question is whether or not we are prepared for the rise of a highly intelligent and dangerous AI.\n\nThe last five years have seen a number of cases of AI-related accidents in the workplace. There have been a number of accidents that resulted in serious injuries and deaths, and also a number of cases where people were able to prevent serious injury or death by their own actions.\n\nThere have",
+        "In the beginning, there was a little black bear.\n\nNow, a young black bear, but still a bear, is a small bear. He's about the size of a dog, but with a body as thick as an ox.\n\nHe's just a baby.\n\nThat's why you can't tell he's a baby, and the reason you can't see it with your naked eyes is because his eyes are so small and far apart that it would take him an age to open his big brown eyes to see you.\n\nSo when he does open them, you can't see them with your naked eyes, because you have to close them so fast, you can't see them with your naked eyes, and when",
+        "Scientists have discovered that there is a genetic mutation that affects the way our brains make decisions.\n\nThe discovery could have important implications for the understanding of addiction, but is also likely to have far reaching implications for the understanding of many other brain disorders.\n\nThe mutation was found in a gene called \u201creelin\u201d, which is essential for the formation of connections between neurons.\n\nThe discovery was made by scientists from the Universities of Cambridge and London, in collaboration with the Wellcome Trust Sanger Institute in Cambridge.\n\nThe study was published in the journal Nature.\n\nThe researchers have already identified a number of other mutations in the same gene that affect the way our brains make decisions.\n\nThey are now working to",
+        "The most important invention in history was the wheel\n\nIn the early 1800s, two men in England were trying to create a better wheel. They found that the only way to create a good wheel was to make it from a series of interlocking rings. The wheels they made were so good that the first carriages were no longer needed.\n\nThe wheel has been the center of many great inventions, from the wheelbarrow and the bicycle to the Internet and the Internet of Things.\n\nBut the wheel also has its dark side. The invention of the wheel made it easier for anyone to move a heavy load. It made it possible for anyone to work in the fields or the fields themselves. It made it possible for anyone to move",
+        "Climate change is affecting our ability to predict the future. The climate has always been changing. But it\u2019s only in the past couple of decades that the consequences of our actions have become more visible and tangible. The question then becomes: How do we make sense of our changing climate?\n\nIt\u2019s clear that we need to reduce our emissions of greenhouse gases. But it\u2019s equally clear that we have a limited ability to do that. To truly address climate change, we need to transition to a low-carbon economy.\n\nWe also need to start taking action to adapt to the changes that are already happening. But there are no quick fixes. In fact, we\u2019re likely to have to wait for a"
+      ]
+    }
+  }
+}
