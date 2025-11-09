@@ -1,0 +1,67 @@
+====================================================================================================
+COMPREHENSIVE COMPARISON REPORT: MAMBA vs TRANSFORMER MODELS
+====================================================================================================
+
+
+====================================================================================================
+COMPARISON: Mamba-2.8B vs GPT-Neo-2.7B
+====================================================================================================
+
+MODEL INFORMATION
+----------------------------------------------------------------------------------------------------
+Metric                                   Mamba                     Transformer               Winner    
+----------------------------------------------------------------------------------------------------
+Architecture                             Mamba                     GPT-Neo                   -         
+Parameters                               2800M                     2700M                     -         
+
+PERFORMANCE METRICS
+----------------------------------------------------------------------------------------------------
+Inference Speed (tokens/sec)             13.2                      27.5                      Transformer (0.48x)
+Peak Memory (MB)                         11034.8                   10727.9                   Transformer
+Memory per Token (KB)                    1087.71                   473.77                    Transformer
+Perplexity (lower better)                1.52                      1.55                      Mamba     
+Generation Diversity                     0.488                     0.556                     Transformer
+Coherence Score                          0.982                     0.979                     Mamba     
+Repetition Avoidance                     0.709                     0.843                     Transformer
+Max Sequence Length                      2048                      2048                      Transformer
+
+TASK-SPECIFIC PERFORMANCE
+----------------------------------------------------------------------------------------------------
+Question Answering                       1.000                     1.000                     Transformer
+Text Completion                          1.000                     1.000                     Transformer
+Long Form Generation                     1.000                     0.400                     Mamba     
+
+SUMMARY
+----------------------------------------------------------------------------------------------------
+Mamba wins: 2/5 metrics
+Transformer wins: 3/5 metrics
+
+🏆 OVERALL WINNER: GPT-Neo-2.7B
+
+
+SAMPLE GENERATIONS
+----------------------------------------------------------------------------------------------------
+
+Example 1:
+Mamba: The future of artificial intelligence is to work with us, not against us.
+
+The future of artificial intelligence is to work with us, not against us. The future of artificial intelligence is to work wi...
+Transformer: The future of artificial intelligence is not a question of whether or not machines will take over from humans in the workplace, or even if they will be able to compete with humans. What is the real qu...
+
+
+Example 2:
+Mamba: In the beginning, there was only the Earth. Then came the first humans, who created the animals and the plants. Then, through the ages, the animals and the plants have all been evolving. But at the be...
+Transformer: In the beginning, there was a little black bear.
+
+Now, a young black bear, but still a bear, is a small bear. He's about the size of a dog, but with a body as thick as an ox.
+
+He's just a baby.
+
+That'...
+
+
+Example 3:
+Mamba: Scientists have discovered that the key to preventing the disease is a unique protein called MIF, which is present in the body and in semen. In the semen, the protein is found in a form that is inacti...
+Transformer: Scientists have discovered that there is a genetic mutation that affects the way our brains make decisions.
+
+The discovery could have important implications for the understanding of addiction, but is ...
