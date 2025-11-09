@@ -4,9 +4,12 @@ This Repo presents the development training and comparative analysis of MAMBA St
 ''' pip install mamba-ssm '''
 **OR**
 ''' git clone https://github.com/state-spaces/mamba.git '''
+
 Then Refer to :
+
 ''' https://github.com/state-spaces/mamba/tree/main '''
 # Requirment
 ## GPU Requirment 
-'' Atleast A40 with 46GB VRAM(DRAM or HBM)'' or higher
-Inference can be done on (GOOGLE COLAB)
+<u>Atleast A40 with 46GB VRAM(DRAM or HBM)</u> or Higher
+
+**Inference** can be done on (GOOGLE COLAB)
